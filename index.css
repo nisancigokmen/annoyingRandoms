@@ -1,0 +1,31 @@
+fieldset {
+    margin-left: 38em;
+    margin-top: 12em;
+    width: 32em;
+    height: 16em;
+    color: #00a2ff;
+    font-size: 18px;
+    text-align: center;
+    opacity: 0.8;
+    border: 2px solid #00a2ff;
+}
+
+#tagBody h1 {
+    margin-top: 2em;
+}
+
+button {
+    margin-top: 2em;
+    width: 12em;
+    height: 3em;
+    border-radius: 0.55em;
+}
+
+button:hover {
+    background-color: #000000;
+    color: #f2f2f2;
+}
+
+button:focus {
+    border: 2px solid #00a2ff;
+}
