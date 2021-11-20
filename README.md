@@ -5,12 +5,15 @@
 
 ![Screenshot_2021-11-20 Random Quotes Generator(1)](https://user-images.githubusercontent.com/91744618/142723492-1463af7a-4d55-4dc5-bbf0-e1d5e5116c6e.png)
 
+<hr>
 
-
-![Screenshot_2021-11-20 Random Quotes Generator(2)](https://user-images.githubusercontent.com/91744618/142723493-7a51eb6a-f786-4fef-9e88-19429dc4dd19.png)
-
-
+  <ol>
     
+  <h3><i> use of </i></h3> 
+  <li>  <p>Click the button and create the random.</p> </li>
+    <li> <p> and send  &#128516 </p> </li>
+           <li> <p> &#128151 thank you for giving a time &#128151 </p> </li>
+  </ol>
 <hr>
 <h2><i>CONTACT</i></h2>
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
