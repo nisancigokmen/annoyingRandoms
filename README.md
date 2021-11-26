@@ -8,11 +8,13 @@
 <hr>
   <ol>
  
+  
   <h3><i> use of </i></h3> 
   <li>  <p>Click the button and create the random.</p> </li>
     <li> <p> and send  &#128516 </p> </li>
     <p> &#128151 thank you for giving a time &#128151 </p> 
   </ol>
+ 
  
 <hr>
 <h2><i>CONTACT</i></h2>
