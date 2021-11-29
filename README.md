@@ -9,7 +9,6 @@
 
   <ol>
 
-  
   <h3><i> use of </i></h3> 
   <li>  <p>Click the button and create the random.</p> </li>
     <li> <p> and send  &#128516 </p> </li>
