@@ -17,6 +17,7 @@
 
 <hr>
 
+
 <h2><i>CONTACT</i></h2>
 
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
@@ -24,7 +25,6 @@
 
 <hr>
 <div>
-  
   
 <img src="https://media0.giphy.com/media/Z9WQLSrsQKH3uBbiXq/giphy.gif?cid=ecf05e47ripo3h6r62y4nhl3jqn2dmnnhazu39ao7tlmtv8w&rid=giphy.gif&ct=g">
   
