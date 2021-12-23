@@ -7,6 +7,7 @@
 <hr>
 
 
+
   <ol>
 
   <h3><i> use of </i></h3> 
@@ -17,7 +18,6 @@
   </ol>
 
 
-
 <hr>
 
 <h2><i>CONTACT</i></h2>
@@ -26,7 +26,8 @@
 
 <hr>
 <div
-    
+   
+     
 <img src="https://media0.giphy.com/media/Z9WQLSrsQKH3uBbiXq/giphy.gif?cid=ecf05e47ripo3h6r62y4nhl3jqn2dmnnhazu39ao7tlmtv8w&rid=giphy.gif&ct=g">
 </div><br>
 
