@@ -6,7 +6,6 @@
 
 <hr>
 
-
   <ol>
 
   <h3><i> use of </i></h3> 
@@ -17,7 +16,6 @@
   </ol>
 
 <hr>
-
 <h2><i>CONTACT</i></h2>
 
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
