@@ -25,7 +25,6 @@
  </div>
 <br>
 
-
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
 
