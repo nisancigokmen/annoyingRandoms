@@ -6,6 +6,7 @@
 
  <div id="contact">
 
+ 
  <h2> Connect with me: </h2>
  
   <a href="https://linkedin.com/in/nisancigokmen"><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="72x"> </a>  &nbsp;
