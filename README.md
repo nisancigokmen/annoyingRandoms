@@ -4,12 +4,12 @@
 
 ![Screenshot_2021-11-20 Random Quotes Generator(1)](https://user-images.githubusercontent.com/91744618/142723492-1463af7a-4d55-4dc5-bbf0-e1d5e5116c6e.png)
 
- <div id="contact">
+<div id="contact">
  
- <h2> Connect with me: </h2>
+<h2> Connect with me: </h2>
  
   <a href="https://linkedin.com/in/nisancigokmen"><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="72x"> </a>  &nbsp;
-   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://alanyavitahomes.com/SiteFolder/img/email.png" width="72px"> </a> 
+   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://assets.webiconspng.com/uploads/2017/01/Mail-Amazing-PNG-Icon.png" width="72px"> </a> 
  
  </div>
  
@@ -29,4 +29,6 @@
 &copy; Gökmen Nişancı / Web Developer. <br><br>
 
 <img src="https://media0.giphy.com/media/Z9WQLSrsQKH3uBbiXq/giphy.gif?cid=ecf05e47ripo3h6r62y4nhl3jqn2dmnnhazu39ao7tlmtv8w&rid=giphy.gif&ct=g" width="210px">
-  
+    <br> <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
