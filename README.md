@@ -6,7 +6,6 @@
 
 <div id="contact">
  
- 
 <h2> Connect with me: </h2>
  
   <a href="https://linkedin.com/in/nisancigokmen"><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="72x"> </a>  &nbsp;
@@ -30,7 +29,6 @@
 </div><br>
 
 &copy; Gökmen Nişancı / Web Developer. <br><br>
-
 
 <img src="https://media0.giphy.com/media/Z9WQLSrsQKH3uBbiXq/giphy.gif?cid=ecf05e47ripo3h6r62y4nhl3jqn2dmnnhazu39ao7tlmtv8w&rid=giphy.gif&ct=g" width="210px">
     <br> <br>
