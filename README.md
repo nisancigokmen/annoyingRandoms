@@ -4,7 +4,6 @@
 
 ![Screenshot_2021-11-20 Random Quotes Generator(1)](https://user-images.githubusercontent.com/91744618/142723492-1463af7a-4d55-4dc5-bbf0-e1d5e5116c6e.png)
 
-
 <div id="contact">
  
 <h2> Connect with me: </h2>
