@@ -13,9 +13,6 @@
  </div>
  
 
-
-
-
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
  
